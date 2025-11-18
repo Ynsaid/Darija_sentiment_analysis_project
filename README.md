@@ -85,12 +85,12 @@ A lightweight REST API is provided to serve real-time sentiment predictions.
 The frontend is built with React and provides a user-friendly interface for interacting with the Flask backend.
 
 ### **Frontend Features**
--Input box for Algerian Darija comments
--Predict button
--Live display of predicted sentiment and confidence
--Character & word counters
--Mobile responsive layout
--Frontend Repository
+- Input box for Algerian Darija comments
+- Predict button
+- Live display of predicted sentiment and confidence
+- Character & word counters
+- Mobile responsive layout
+- Frontend Repository
 
 ## **Frontend Repository**
 https://github.com/Ynsaid/Darija_Sentiment_Analysis_Frontend
